@@ -1,4 +1,4 @@
-![Polycade.com](https://i.imgur.com/jcvsFKh.png)
+#![Polycade.com](https://i.imgur.com/jcvsFKh.png)
 
 ---
 
